@@ -1,3 +1,4 @@
+# Naive bayes classifier Dataset
 Using Naïve Bayes algorithm for predicting labels on divar dataset.
 
 This project revolves around the objective of constructing a classifier algorithm employing the Naive Bayes classification method. The primary aim is to facilitate the prediction of a new product's category by analyzing its characteristics and title keywords, drawing parallels with established classes and categories.
